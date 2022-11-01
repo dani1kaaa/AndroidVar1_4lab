@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Меры безопасности</string>
+    <string name="lec01">    Сильный ливень</string>
+    <string name="lec11">    Град</string>
+    <string name="lec15">    Ураган</string>
+
+
+</resources>

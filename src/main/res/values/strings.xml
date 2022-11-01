@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Погода</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+    <string name="autor">BDV1.</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://www.gismeteo.kz/</string>
+    <string name="spy_soft">https://yandex.kz/pogoda/Kazakhstan/</string>
+    <string name="securitylab">https://world-weather.ru/pogoda/kazakhstan/</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">777777@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте !</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>
